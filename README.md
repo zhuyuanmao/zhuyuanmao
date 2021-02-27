@@ -2,7 +2,7 @@
 - 🔭 I’m currently studing in the University of Alberta
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me: zhu.yuanmao18@gmail.com
-- 😄 Pronouns: Yuanmao (yuan mow) (he/him)
+- 😄 Pronouns: he/him
 <!--
 **zhuyuanmao/zhuyuanmao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
