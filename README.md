@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently studing in the University of Alberta
+- 🔭 I’m currently studying at the University of Alberta
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me: zhu.yuanmao18@gmail.com
 - 😄 Pronouns: he/him
