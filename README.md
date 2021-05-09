@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently studying at the University of Alberta
-- 🌱 I’m currently learning Web Development
+- 🔭 I have just graduated from University of Alberta.
+- 🌱 I’m interested in web development.
 - 📫 How to reach me: zhu.yuanmao18@gmail.com
 - 😄 Pronouns: he/him
 <!--
