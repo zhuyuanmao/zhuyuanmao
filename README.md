@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I am graduated from the University of Alberta.
 - 🌱 I’m interested in web development.
 - 📫 How to reach me: yuanmao.zhu.work@gmail.com
 - 😄 Pronouns: he/him
