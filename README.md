@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I am graduated from the University of Alberta.
 - 🌱 I’m interested in web development.
-- 📫 How to reach me: zhu.yuanmao18@gmail.com
+- 📫 How to reach me: yuanmao.zhu.work@gmail.com
 - 😄 Pronouns: he/him
 <!--
 **zhuyuanmao/zhuyuanmao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
