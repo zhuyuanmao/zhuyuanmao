@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🌱 I’m interested in web development.
 - 📫 How to reach me: yuanmao.zhu.work@gmail.com
 - 😄 Pronouns: he/him
 <!--
